@@ -1,0 +1,197 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+/* header */
+
+.font{
+    font-size: 70px;
+}
+
+.logo{
+    color: orangered;
+    font-family: 'Cedarville Cursive', cursive;
+    margin: 12px;
+}
+
+.nav-link:hover{
+    text-decoration-color: orangered;
+    border-bottom: 5px solid orangered;
+}
+
+#colr{
+    color: orangered;
+}
+
+.sec1{
+    margin: 50px 0 50px 0;
+}
+
+#bcolr{
+    background: orangered;
+}
+
+/* header end */
+
+
+/* section-2 */
+/* Left part */
+.name{
+    /* font-size: 75px; */
+    margin-top: 100px;
+    margin-bottom: 30px;
+    /* color: white; */
+}
+
+.profession{
+    color: white;
+    margin-bottom: 120px;
+}
+
+/* Right part */
+.bor{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 360px;
+    width: 360px;
+    /* margin-top: 40px; */
+    /* margin-left: 160px; */
+   
+}
+
+.bor2{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 320px;
+    width: 320px;
+    /* margin: -30px 0 0px 19px; */
+    margin: 18px 0 0px 7px;
+    /* margin-top: 19px; */
+    /* margin-left: 7px; */
+}
+
+.bor3{
+    border: 10px solid orangered;
+    border-radius: 50%;
+    height: 280px;
+    width: 280px;
+    margin-top: 19px;
+    margin-left: 18px;
+}
+
+.bor img{
+    border: 2px solid ;
+    border-radius: 50%;
+}
+
+.him{
+    border: 1px solid ;
+    border-radius: 50%;
+}
+
+/* Right part end */
+
+/* section-3  */
+.img-bor{
+    display: flex;
+    border: 20px solid orangered;
+    height: 440px;
+    width: 380px;
+    border-radius:40px;
+    /* margin-top: 20px; */
+    margin-left: 80px;
+}
+
+.bord{
+    border: 2px solid none;
+    margin-left: 170px;
+}
+
+.para{
+    word-spacing: 5px;
+    /* line-height: 35px; */
+}
+
+/* section-4 */
+
+.b1{
+    border: 1px solid none;
+    border-color: rgb(250, 246, 202);
+}
+
+.b2{
+    border: 1px solid none;
+}
+
+/* .h2{
+    margin-top: 45px;
+    width: fit-content;
+    background-color: rgb(177, 232, 227);
+
+} */
+
+p{
+    margin-top: 15px;
+}
+
+/* Section-5 */
+.c{
+    background-color:rgb(247, 234, 238);
+}
+.con{
+    /* border-bottom: 5px solid orangered; */
+    text-decoration: underline;
+    text-decoration-color: orangered;
+    /* width: fit-content; */
+    /* text-align: center; */
+}
+
+input{
+    height: 40px;
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+textarea{
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 25px;
+}
+
+.bt{
+    border-radius: 22px;
+    height: 50px;
+    width: 180px;
+    background-color: orangered;
+}
+
+/* Footer */
+
+.ic{
+    font-size: 20px;
+    margin-left:10px;
+    border: 3px solid gray;
+    border-radius: 50%;
+    height:33px;
+    width: 33px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+/* ///////////// */
+.bb1{
+    border: 2px solid black ;
+    height: 150px;
+    width: 48%;
+    margin: 10px;
+    border-radius: 25px;
+}
